@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ----------------------------- */
+/*       Root CSS Variables     */
+/* ----------------------------- */
+:root {
+  --color-background: rgba(203, 213, 188, 0.4);
+  --color-bg-navi: rgba(250, 243, 224, 0.5);
+  --color-bg-navi-mobile: rgb(203, 213, 188);
+  --color-bg-navi-scrolled: rgb(250, 243, 224);
+  --color-foreground: #FAF3E0;
+  --color-heading: #567B5C;
+  --color-paragraph: #115F52;
+  --color-button-bg: #CBD5BC;
+  --color-button-hover: #a3c6b4;
+  --color-button-text: #567b5c;
+  --color-btn-border: #7AAEAA;
+  --color-footer-bg: #99BFAA;
+
+  --font-handwriting: 'Handlee', cursive;
+  --font-burmese: 'MyanmarKhyay', sans-serif;
+}
+
+/* ----------------------------- */
+/*        Custom Font Faces     */
+@font-face {
+  font-family: 'MyanmarKhyay';
+  src: url('/fonts/MyanmarKhyay-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ----------------------------- */
+/*         Base Styles          */
+/* ----------------------------- */
+html {
+  scroll-behavior: smooth;
+  width: 100%;
+}
+
+body {
+  @apply font-sans;
+  background-color: var(--color-background);
+  color: var(--color-paragraph);
+}
+
+/* ----------------------------- */
+/*         Headings             */
+/* ----------------------------- */
+h1, h2, h3 {
+  font-weight: bold;
+  color: var(--color-heading);
+  font-family: var(--font-burmese);
+}
+
+/* ----------------------------- */
+/*         Paragraphs           */
+/* ----------------------------- */
+p {
+  line-height: 1.625;
+  color: var(--color-paragraph);
+  font-family: 'Handlee', cursive; 
+}
+
+/* ----------------------------- */
+/*         Buttons              */
+/* ----------------------------- */
+.btndetr {
+  width: 3.75rem;
+  height: 2.5rem;
+  font-weight: bold;
+  border-radius: 9999px;
+  transition: all 0.2s;
+  background-color: var(--color-button-bg);
+  color: var(--color-button-text);
+  font-family: var(--font-burmese);
+}
+
+@media (max-width: 640px) {
+  .btndetr {
+    @apply w-12 h-8 text-sm mr-5;
+  }
+}
+
+.btndetr:hover {
+  background-color: var(--color-button-hover);
+}
+
+.btn {
+  @apply px-8 py-3 font-medium rounded-full border shadow-md hover:shadow-lg transition;
+  background-color: var(--color-button-bg);
+  color: var(--color-button-text);
+  border-color: var(--color-btn-border);
+  font-family: var(--font-burmese);
+}
+
+/* ----------------------------- */
+/*         Links                */
+/* ----------------------------- */
+a , button{
+  @apply p-2 rounded-full;
+  color: var(--color-heading);
+}
+
+a:hover , button:hover{
+  @apply underline;
+}
+
+/* ----------------------------- */
+/*        Components            */
+/* ----------------------------- */
+.component {
+  width: 100%;
+  height: auto;
+  background-color: var(--color-foreground);
+}
+
+/* ----------------------------- */
+/*       Font Utility Classes   */
+/* ----------------------------- */
+.font-handlee {
+  font-family: 'Handlee', cursive;
+}
+
+.font-khyay {
+  font-family: var(--font-burmese);
+}
+
+/* ----------------------------- */
+/*          Navbar              */
+/* ----------------------------- */
+.navi {
+  @apply w-full px-2 py-2;
+  background-color: var(--color-bg-navi);
+  color: var(--color-heading);
+  font-family: var(--font-burmese);
+}

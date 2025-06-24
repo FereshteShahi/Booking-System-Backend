@@ -1,0 +1,183 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "angebote": "Hizmetlerim",
+    "cost": "Seans Ücretleri",
+    "contact": "İletişim"
+  },
+  "quotes": {
+    "quoteHome": "Farkındalık, tekrar iletişim kurmamıza yardımcı olabilir, özellikle de kendimizle.",
+    "quoteHomeAuthor": "–Thich Nhat Hanh",
+    "quoteTherapie1": "“Bu senin yolun, yalnızca senin. Başkaları bu yolu seninle birlikte yürüyebilir; fakat kimse senin için yürüyemez.  ",
+    "quoteTherapie1Author": "–Mevlana",
+    "quoteTherapie2": "İnsani varoluşun anlamına yönelik soruya akla yatkın ve tatmin edici tek yanıt sevgidir.  ",
+    "quoteTherapie2Author": "–Erich Fromm",
+    "quoteTherapie3": "Hayat, en muhteşem halini göstermek için bir krizin oluşmasını bekler her zaman.",
+    "quoteTherapie3Author": "–Paulo Coelho",
+    "quoteAbout": "Ich bin nicht das, was mir passiert ist, ich bin das, was ich entscheide zu werden.",
+    "quoteAboutAuthor": "Carl Gustav Jung"
+  },
+  "home": {
+    "name": "Duygu Fröhlich",
+    "title": "Uzman Psikolog M.A.",
+    "title2": "Sistemik Terapist ve Aile Terapisti (DGSF)",
+    "description": "Merhabalar, ben Duygu Fröhlich. Uzman psikoloğum ve aynı zamanda sistemik aile terapistiyim. 2014 yılından beri psikolog olarak görevimi sürdürüyor; bireylere, çiftlere, ailelere ve ebeveynlere danışmanlık ve terapi hizmeti sunuyorum. Seanslar sürecinde danışanlara acılarının kendilerine özgün sebeplerine inerek kendilerine ve yakınlarına karşı farkında ve şefkatli bir yaklaşım geliştirmeleri konusunda destek oluyorum.",
+    "buttonText": "Daha fazla bilgi",
+    "wordcloudPhoto": "./images/TR_wordcloud.svg"
+  },
+  "angebote": {
+    "title": "Hizmetlerim",
+    "therapie1": "Psikolojik Danışma",
+    "content1": "Sahip olduğumuz yeteneklerin ve olanakların artık sorunlarımızı çözmeye yetmediği zamanlar olur. Bunun negatif etkileri başta iş, ilişki, okul, mesleki eğitim, aile olmak üzere birçok hayat alanımıza yansır. Dolayısıyla uyku bozuklukları, psikosomatik şikayetler, kaygılar, depresif ruh halleri gibi belirtiler baş gösterir. Birlikte kalıcı bir düzelme sağlayabilir ve hayatınızda mutluluğa ve esenliğe daha çok yer açabiliriz. ",
+    "therapie2": "Çift Danışmanlığı",
+    "content2": "Mutlu bir ilişkiyi sürdüren kişiler hayatta daha sağlam adımlarla ilerlerler. Ancak diğer yandan ilişkideki problemler psikolojik sağlığı önemli ölçüde zarara uğratıp diğer yaşam alanlarını da olumsuz yönde etkileyebilir. Şu ana kadar gerçekleştirdiğim çift görüşelerinde şunu deneyimleme fırsatı buldum: Karşılıklı anlayış ve iletişim becerilerinin geliştirilmesi sayesinde çift olarak katılımda danışmanlığın olumlu etkisi katbekat artmakta. ",
+    "therapie3": "Ebeveyn Danışmanlığı",
+    "content3": "Çocuklukların ve ergenlerin hızlı gelişim dönemleri olması ebeveynlere çokça mutluluk ve gurur dolu anlar yaşatır. Öte yandan bu durum, ebeveyn-çocuk ilişkisini tekrarlayan şekilde yeni zorluklara sürükler. Kişi, böyle zamanlarda kendi çocukluk deneyimleriyle de daha bir yüzleşir, ancak daha iyi alternatifler bulmakta zorlanır. Çocuk eğitiminin sağlıklı yöntemleri çıkabilecek sorunları önlemede etkili olur ve aile hayatının huzurlu sürdürülmesini sağlar. Kriz durumlarında ise anne ve babalar kendilerini de ihmal etmeden çocuklarının ihtiyaçlarını daha iyi tespit edip gidermeyi öğrenebilirler.",
+    "angeboteInfoTitle": "Hizmetlerim Hakkında Bilgi",
+    "angeboteInfoContent1": "Görüşmeler online olarak da gerçekleştirilebilir.",
+    "angeboteInfoContent2": "Olası danışma dilleri: Türkçe, Almanca, İngilizce.",
+    "angeboteInfoContent3": "Gizlilik yükümlülüğüne tabiyim.",
+    "angeboteInfoContent4": "Not: Sistemik danışmanlık veya terapi, psikolojik bir psikoterapinin veya tıbbi bir tedavinin yerini tutmaz. Akut kriz durumlarında lütfen ilgili birimlere başvurun.",
+    "angeboteInfoContent5": "Hizmetimin sizin ihtiyacınıza uygun olup olmadığını ilk görüşmede birlikte değerlendiriyoruz."
+  },
+  "costs": {
+    "title": "Seans Ücretleri",
+    "content": "Danışmanlık hizmetlerim için seans ücretleri şöyledir:",
+    "cost1": "Sesli veya Görüntülü Ön Görüşme (30 dk.)",
+    "cost2": "Bireysel Seans (60 dk.)",
+    "cost3": "Çift Danışmanlığı (90 dk.)",
+    "costButton": "İletişim",
+    "conditions": "Koşullar:",
+    "condition1": "Randevunuzu 24 saat öncesine kadar ücretsiz şekilde iptal edebilir ya da değiştirebilirsiniz.",
+    "condition2": "Son 24 saat içerisindeki iptallerde veya gelinmeyen seanslarda ücretin yarısı faturalandırılacaktır.",
+    "condition3": "Seans sonrasında size faturasını göndereceğim.",
+    "condition4": "Alman Katma Değer Vergisi Yasasınca (§ 19 UstG) bu hizmet vergiden muaftır."
+  },
+  "contact": {
+    "title": "Benimle iletişime geçebilirsiniz",
+    "content": "Seanslar yalnızca önceden belirlenen randevu ile mümkündür.",
+    "contactButton": "İletişim"
+  },
+  "aboutpage": {
+    "titleAbout": "Hakkımda",
+    "name": "Duygu Fröhlich",
+    "description": " Uzman Psikolog ",
+    "description1": " Sistemik Terapist/Aile Terapisti (DGSF",
+    "content": "2014 yılından beri psikolog olarak görevimi sürdürüyor; bireylere, çiftlere, ailelere ve ebeveynlere danışmanlık ve terapi hizmeti sunuyorum.Seanslar sürecinde danışanlara acılarının kendilerine özgün sebeplerine inerek kendilerine ve yakınlarına karşı farkında veşefkatli bir yaklaşım geliştirmeleri konusunda destek oluyorum.",
+    "studium": "Eğitim:",
+    "contentAbout1": "Psychology of Excellence in Business and Education (Yüksek Lisans), Ludwig-Maximilians-Universität, Münih",
+    "contentAbout2": "Psikoloji (Lisans), Orta Doğu Teknik Üniversitesi, Ankara",
+    "Berufstaetigkeit": "İş Deneyimi:",
+    "Berufstaetigkeitjahr1": "2024’ten beri ",
+    "Berufstaetigkeittext1": "Psikolojik Hizmet Uzmanı, KJF München",
+    "Berufstaetigkeitjahr2": "2024’ten beri",
+    "Berufstaetigkeittext2": "Anadilde Ebeveyn Eğitmeni, Refugio München",
+    "Berufstaetigkeitjahr3": "2014-2024",
+    "Berufstaetigkeittext3": "Uzman Psikolog,Psikolojik Danışma Merkezi, AWO München",
+    "Qualifikationen": "Uzmanlıklar:",
+    "Qualifikationen1": "Sistemik Terapist/Aile Terapisti, Deutsche Gesellschaft für Systemische Therapie, Beratung und Familientherapie (DGSF) ",
+    "Qualifikationen2": "“Çocuklar ve Gençler için Sistemik Koç”, Institut für Bildungscoaching",
+    "Qualifikationen3": "Karmaşık Aile Sistemleriyle Stratejik Çalışma”IFW Institut für Fort- und Weiterbildung",
+    "Qualifikationen4": "“Örgütlü Törensel İstismardan Çıkış” Trauma Hilfe Zentrum München e.V.",
+    "Qualifikationen5": "“Travma Sonrası Bozukluklarla Baş Etme ve Kültüre Duyarlı Danışma”, Refugio München transfer",
+    "Qualifikationen6": "“Sistemik Birey, Çift ve Aile Terapisi Eğitimi”, IFW Institut für Fort- und Weiterbildung  ",
+    "Qualifikationen7": "“Anadilde Ebeveyn Kursu Eğitmeni”, Refugio München Eltern-Aktiv"
+  },
+  "kontaktpage": {
+    "title": "İletişim",
+    "name": "Soyadı",
+    "namePlaceholder": "Adınızı girin",
+    "vorname": "Adı",
+    "vornamePlaceholder": "Adınızı girin",
+    "telefonnummer": "Telefon Numarası",
+    "telefonnummerPlaceholder": "Telefon numaranızı girin",
+    "email": "E-posta",
+    "emailPlaceholder": "E-posta adresinizi girin",
+    "nachricht": "Mesaj",
+    "nachrichtPlaceholder": "Mesajınızı girin",
+    "button": "Gönder"
+  },
+  "footer": {
+    "impressum": "Künye/",
+    "datenschutz": "Gizlilik Politikası"
+  },
+  "impressum": {
+    "title": "Künye",
+    "content": "Telemedya Kanunu (TMG) § 5 uyarınca bilgiler:",
+    "name": "Duygu Fröhlich",
+    "jobtitle": "Psikolog M.A.",
+    "address": "Asamstraße 8 ,81541 Münih – Almanya",
+    "phone": "Telefon: +49 1578 1639662",
+    "email": "E-posta: duygu.froehlich@web.de",
+    "responsible": "İçerikten sorumlu kişi (RStV § 55, 2. fıkra uyarınca):",
+    "responsibleName": "Duygu Fröhlich"
+  },
+
+  "datenschutz":{
+     "titleDatenschutz":"Gizlilik Politikası (Veri Koruma Beyanı)",
+      "datenschutztext":"Kişisel verilerinizin korunması bizim için büyük önem taşır. Bu web sitesinde kişisel veriler yalnızca teknik olarak gerekli ölçüde işlenir. Toplanan veriler hiçbir şekilde satılmaz veya üçüncü taraflara iletilmez.",
+     
+     
+      "Verantwortlich":"1. Sorumlu Kişi / Kurum",
+      "nameD":"Duygu Fröhlich",
+      "addresse":" Asamstraße 8",
+      "ort":" 81541 München",
+      "telefone":"Telefon: +49 1578 1639662",
+      "emailD":"E-Mail: duygu.froehlich@web.de",
+      
+      
+      "hosting":"2. Hosting Hizmeti",
+      "hoster":"Bu web sitesi şu sağlayıcı tarafından barındırılmaktadır:",
+      "hoster1":"Munich Software Studios",
+      "hoster2":"TL UG (haftungsbeschränkt)",
+      "hoster3":"Simerbauernweg 17",
+      "hoster4":"82041 Oberhaching",
+      "hoster5":" Web sitesi sahibi ile hosting sağlayıcısı arasında, GDPR Madde 28 uyarınca bir veri işleme sözleşmesi imzalanmıştır.",
+      
+      "verschlüsselung":"3. SSL / TLS Şifreleme",
+      "verachlüsselungtext":"Diese Website nutzt eine SSL- bzw. TLS-Verschlüsselung.Sie erkennen eine verschlüsselte Verbindung an der Adresszeile des Browsers („https://“) und am Schloss-Symbol.Dadurch sind übermittelte Daten gegen unbefugten Zugriff geschützt.",
+     
+      "erhebung":"4. Kişisel Verilerin Toplanması ve Saklanması",
+      "erhenubg0":"Web sitesini ziyaret ettiğinizde, barındırma hizmeti sağlayıcısı otomatik olarak aşağıdaki bilgileri kaydeder (sunucu günlük dosyaları):",
+      "erhebung1":"Ziyaretçinin IP adresi",
+      "erhebung2":"Erişim tarihi ve saati",
+      "erhebung3":"Ziyaret edilen sayfa (URL)",
+      "erhebung4":"Kullanılan tarayıcı ve işletim sistemi",
+      "erhebungText":"Bu veriler yalnızca teknik güvenlik ve hata analizleri amacıyla kullanılır ve düzenli olarak otomatik olarak silinir. Bu veriler başka veri kaynaklarıyla birleştirilmez.",
+
+
+      "kontakt":"5. İletişim Formu",
+      "kontakttext":"İletişim formu üzerinden bize ulaştığınızda, şu veriler işlenir:",
+      "kontakt1":"İsim",
+      "kontakt2":"E-posta adresi",
+      "kontakt3":"Mesaj içeriği",
+      "rechtgrundlage":"Veri işleme hukuki dayanağı:",
+      "rechtgrundlagetext":"GDPR Madde 6, 1. fıkra, bent (b) – Sözleşme öncesi önlemler veya taleplerin yerine getirilmesi",
+      "speicherdauer":" Saklama süresi:",
+      "speicherdauertext":" Veriler, talebiniz tamamen işleme alındıktan sonra ve yasal saklama yükümlülüğü bulunmuyorsa silinir.Verileriniz üçüncü şahıslarla paylaşılmaz.",
+      
+
+
+      "rechte":"6. Haklarınız",
+      "rechtetext":"GDPR kapsamında aşağıdaki haklara sahipsiniz:",
+      "rechte1":"Bilgi edinme hakkı (Madde 15)",
+      "rechte2":"Düzeltme hakkı (Madde 16)",
+      "rechte3":"Silme hakkı (Madde 17)",
+      "rechte4":"İşlemenin kısıtlanması hakkı (Madde 18)",
+      "rechte5":"Veri taşınabilirliği hakkı (Madde 20)",
+      "rechre6":"İtiraz etme hakkı (Madde 21)",
+     
+     
+      "wiederspruchrecht":"7. GDPR Madde 21'e göre İtiraz Hakkı",
+      "wiederspruchrechttext":"Kişisel verilerinizin işlenmesine, özel durumunuza bağlı gerekçelerle, her zaman itiraz etme hakkınız vardır. Bu durum özellikle meşru menfaat (Madde 6, fıkra 1, bent f) kapsamında yapılan işlemler için geçerlidir.",
+      "muster":"İtiraz dilekçesi örneği:",
+      "an":"Alıcı: Duygu Fröhlich, Asamstraße 8, 81541 München",
+      "betreff":"Konu: Kişisel ",
+      "betreftext":"GDPR Madde 21 uyarınca kişisel verilerimin işlenmesine itiraz ediyorum.[Yer, Tarih][İmza – posta yoluyla gönderiliyorsa]",
+      
+      
+      "änderung":"8. Bu Gizlilik Politikasında Değişiklikler",
+      "änderungtext":"Bu gizlilik politikası, yasal veya teknik gelişmeler doğrultusunda zaman zaman güncellenebilir.Geçerli sürüm her zaman bu web sitesinde yayınlanır."
+  }
+}
