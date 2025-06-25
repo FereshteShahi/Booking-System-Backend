@@ -7,10 +7,10 @@ export default function About({ params }: { params: Params }) {
   const datenschutz = getContent(params.lang, "datenschutz");
 
 return(
-    <section className="mb-6">
+    <section className="mb-6 md:mt-[-30]">
 
 <h1 className="text-4xl font-bold text-center  m-10 ">Datenschutzerklärung</h1>
-<div className="bg-[var(--color-foreground)] p-[30px] ">
+<div className=" text-center bg-[var(--color-foreground)] p-[30px] ">
 
 <p className="text-[20px] lg:text-[25px]">{datenschutz.datenschutztext}</p>
 <h4 className="font-bold text-[20px] lg:text-[25px]">{datenschutz.Verantwortlich}</h4>

@@ -11,7 +11,7 @@ export default function Impressum({ params }: { params: Params }) {
         {impressumContent.title}
       </h1>
 
-      <section className="w-full text-center space-y-12 bg-[var(--color-foreground)] p-6 ">
+      <section className="w-full text-center space-y-12 bg-[var(--color-foreground)] p-6 pb-[33.8vh] md:pb-[28.5vh]">
         {/* Contact Info */}
         <div>
           <h2 className="text-2xl font-semibold mb-4">{impressumContent.content}</h2>
