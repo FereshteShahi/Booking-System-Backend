@@ -13,5 +13,7 @@ Backend — Hauptfunktionen
 - Verwaltung von Terminen (anzeigen, bearbeiten, löschen)  — `GET/PUT/DELETE /api/appointments/:id`
 - Benachrichtigung der Psychologen via EmailJS — `POST /api/notify
 
-
+**Technologie & Datenbank:**  
+Der Backend-Teil ist mit **Next.js API Routes** implementiert und verwendet **PostgreSQL ** als Datenbank.  
+Alle sensiblen Daten (z.B. DB-Zugang, EmailJS Keys) werden in `.env` gespeichert.
 
