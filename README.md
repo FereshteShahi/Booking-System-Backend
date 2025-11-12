@@ -1,6 +1,6 @@
 Kurze Projektbeschreibung:
-Eine  responsive Website für psychologische Praxisverwaltung.  
-Die Plattform erlaubt Benutzern, Termine zu buchen, und unterstützt Psychologen mit automatischen Benachrichtigungen.
+
+Eine moderne Website mit Registrierung und Login, auf der man Termine erstellen, löschen und die Psychologin automatisch per E-Mail informieren kann. Erstellt mit Next.js, PostgreSQL, REST APIs, TypeScript, Figma, Tailwind und EmailJS.
 
 
 
